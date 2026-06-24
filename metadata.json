@@ -1,0 +1,6 @@
+{
+  "name": "Khushboo and Abhishek Wedding Invitation",
+  "description": "An elegant, interactive, single-page wedding invitation website with traditional roots and a modern luxury aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
